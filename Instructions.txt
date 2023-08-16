@@ -1,0 +1,16 @@
+These are the instructons to use the GyroRead4 application.
+
+The application records and shows gyroscope data from all three axes at a suggested 20 Hz sampling rate.
+
+After starting the application you can press the `start/stop' button to indefinitly record data.
+While the application is running you can press the `start/stop' button again to stop the recording.
+
+To record for a specific amount of time, press the input bar at the bottom which brings up a menu to input a number.
+Here you can input the amount of seconds you would like to record. Then you can press `start/stop' to start the recording, and it will automatically stop after the amount of seconds you set.
+Setting 0 will make the application record indefinitly.
+
+To save a recording, press the `save' button. This will save the recording, and show the location and name of the saved file on the top of the screen.
+The name will consist of the date and time when saving. This file can be collected from the phone after connecting to a linux pc using the `abd pull' command.
+
+To start a second recording, first press the `clear' button at the bottom of the screen. This will delete the data present so that the data will be only from the new recording.
+This does, however, not clear the graphs you see on the screen.
