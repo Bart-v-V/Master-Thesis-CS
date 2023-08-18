@@ -14,3 +14,6 @@ The name will consist of the date and time when saving. This file can be collect
 
 To start a second recording, first press the `clear' button at the bottom of the screen. This will delete the data present so that the data will be only from the new recording.
 This does, however, not clear the graphs you see on the screen.
+
+
+After getting the files to a pc, you can use collectedToRaw.py [filename] to get the data from the recroding into the raw file format. 
