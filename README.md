@@ -17,7 +17,7 @@ This repository contains:
     This code can also be used to test on data with added noise.
 
 
-The revised version of the "WISDM Smartphone and Smartwatch Activity and Biometrics Dataset" is available at 'https://www.dropbox.com/scl/fi/sozhsaqdd712kqfjl13zm/wisdm-dataset-revised.zip?rlkey=8wpe89xg8bk19x598qsp2apb0&dl=0'.
+The revised version of the "WISDM Smartphone and Smartwatch Activity and Biometrics Dataset" is available at https://www.dropbox.com/scl/fi/sozhsaqdd712kqfjl13zm/wisdm-dataset-revised.zip?rlkey=8wpe89xg8bk19x598qsp2apb0&dl=0.
 This version includes all the changes made in the thesis, and has all 10 splits already made.
 
-The original version of this dataset is available at 'https://archive.ics.uci.edu/dataset/507/wisdm+smartphone+and+smartwatch+activity+and+biometrics+dataset'
+The original version of this dataset is available at https://archive.ics.uci.edu/dataset/507/wisdm+smartphone+and+smartwatch+activity+and+biometrics+dataset.
